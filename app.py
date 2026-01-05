@@ -22,7 +22,7 @@ ENCODER_PATH = "model/label_encoder (1).pkl"
 # ======================================================
 model = None
 tokenizer = None
-label_encoder = None-
+label_encoder = None
 MAXLEN = 60
 
 # ======================================================
